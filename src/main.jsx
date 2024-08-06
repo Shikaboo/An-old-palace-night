@@ -7,7 +7,7 @@ import "./common.css"
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <BrowserRouter basename={'/Team_Period/'}>
+  <BrowserRouter basename={'/an-old-palace-night/'}>
   <App />
   </BrowserRouter>
 )
